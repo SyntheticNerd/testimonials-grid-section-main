@@ -37,7 +37,7 @@ body {
   background-image: url("../images/bg-pattern-quotation.svg");
   background-repeat: no-repeat;
   background-position-x: 80%;
-  background-size: 20%;
+  background-size: 120px;
   background-color: var(--section1BG);
   color: var(--textColorLight);
   box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.4);
